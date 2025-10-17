@@ -1,6 +1,6 @@
 import styles from "./SkillsStyles.module.css"
 import checkMarkIcon from "../../assets/checkmark-dark.svg"
-import SkillsList from "../../common/SKILLSlIST.JSX"
+import SkillsList from "../../common/SkillsList.jsx"
 const Skills = () => {
   return (
     <section id="skills" className={styles.container}>
