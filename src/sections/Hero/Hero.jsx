@@ -40,15 +40,19 @@ function Hero() {
           <br />
           Gupta
         </h1>
-        <h2>Frontend Developer</h2>
+        <h2>Software Developer</h2>
         <span>
-          <a href="https://twitter.com/" target="_blank">
+          <a href="https://x.com/dev_coder555" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />
           </a>
-          <a href="https://github.com/" target="_blank">
+          <a href="https://github.com/DevTheCoder555/" target="_blank">
             <img src={githubIcon} alt="Github icon" />
           </a>
-          <a href="https://linkedin.com/" target="_blank">
+          <a href="https://www.linkedin.com/in/devyansh-gupta-2a9615385/"
+
+
+
+ target="_blank">
             <img src={linkedinIcon} alt="Linkedin icon" />
           </a>
         </span>

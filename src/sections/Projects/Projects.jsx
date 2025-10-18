@@ -7,7 +7,7 @@ const Projects = () => {
     <section id="projects" className={styles.container}>
               <h1 className="sectionTitle">Projects</h1>
               <div className={styles.projectscontainer}>
-                <ProjectsCards src={todo} link="https://github.com/DevTheCoder555/Todolist" h3="To-Do List" p="Complete it"/>    
+                <ProjectsCards src={todo} link="https://todolist-vert-nu.vercel.app/" h3="To-Do List" p="Complete it"/>    
               </div>
 
     </section>
